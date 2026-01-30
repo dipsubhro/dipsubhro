@@ -21,12 +21,11 @@ I enjoy building complex projects like **web-based IDEs** and **AI chatbots**. O
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="Go" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="CSS3" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" />
   <img src="https://cdn.simpleicons.org/nextdotjs/white" height="40" alt="Next.js" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS" />
   <img src="https://cdn.simpleicons.org/reactquery/FF4154" height="40" alt="TanStack Query" />
-  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/bear.png" height="40" alt="Zustand" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js" />
   <img src="https://cdn.simpleicons.org/express/white" height="40" alt="Express.js" />
   <img src="https://cdn.simpleicons.org/socketdotio/white" height="40" alt="Socket.IO" />
@@ -34,7 +33,7 @@ I enjoy building complex projects like **web-based IDEs** and **AI chatbots**. O
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL" />
   <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="Redis" />
   <img src="https://avatars.githubusercontent.com/u/83648056" height="40" alt="Qdrant" />
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" />
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="Kubernetes" />
   <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="Terraform" />
@@ -44,7 +43,7 @@ I enjoy building complex projects like **web-based IDEs** and **AI chatbots**. O
   <img src="https://cdn.simpleicons.org/github/white" height="40" alt="GitHub" />
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="GitHub Actions" />
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="Cloudflare" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <img src="https://cdn.simpleicons.org/neovim/57A143" height="40" alt="Neovim" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman" />
   <img src="https://cdn.simpleicons.org/vercel/white" height="40" alt="Vercel" />
@@ -56,8 +55,8 @@ I enjoy building complex projects like **web-based IDEs** and **AI chatbots**. O
 ## 📊 GitHub Stats & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipsubhro&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipsubhro&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dipsubhro&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipsubhro&theme=tokyonight" height="160" alt="profile details" />
 </div>
 
 <br>
@@ -73,7 +72,7 @@ I enjoy building complex projects like **web-based IDEs** and **AI chatbots**. O
 <p align="center">
   <a href="https://subhro.tech"><img src="https://cdn.simpleicons.org/googlechrome/white" height="30" alt="Portfolio" /></a>&nbsp;&nbsp;
   <a href="https://github.com/dipsubhro"><img src="https://cdn.simpleicons.org/github/white" height="30" alt="GitHub" /></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/subhradip-sinha-8a31b9277"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/subhradip-sinha-8a31b9277"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://x.com/Dipsubhro12"><img src="https://cdn.simpleicons.org/x/white" height="30" alt="Twitter/X" /></a>&nbsp;&nbsp;
   <a href="mailto:sbhrdpsinha@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" height="30" alt="Gmail" /></a>&nbsp;&nbsp;
   <a href="https://hashnode.com/@DipSubhro"><img src="https://cdn.simpleicons.org/hashnode/2962FF" height="30" alt="Hashnode" /></a>
