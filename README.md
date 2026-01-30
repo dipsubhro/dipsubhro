@@ -1,16 +1,14 @@
 # 👋 Hi, I'm Subhro
 
-Welcome to my personal GitHub Pages website! This is a simple yet powerful site that introduces who I am — a developer, a dreamer, and a doer.
+I'm a developer who loves building scalable systems and exploring new tech.
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm **Subhro**, a passionate **Cloud & Full-Stack Developer**, currently pursuing a B.Tech in Computer Science and Engineering. I thrive at the intersection of **technology, creativity, and real-world impact**. Whether it’s building browser-based IDEs, AI-driven PDF chatbots, or e-commerce platforms—I enjoy solving meaningful problems with code.
+I'm a **Cloud & Full-Stack Developer** and Computer Science student. I specialize in **Full-Stack**, **Cloud Infrastructure**, and **AI Integration**.
 
-My interests span across **full-stack development, cloud infrastructure**, and **AI integrations**. I'm an enthusiastic **Linux user**, practice **DSA regularly**, and also enjoy sharing knowledge through **tech blogs on Hashnode**. I’ve worked with tools like Node-pty and Socket.IO to build interactive terminal environments, integrated Hugging Face embeddings for document understanding, and deployed applications using modern DevOps practices.
-
-Outside of development, I value learning, open-source collaboration, and delivering clean, user-focused experiences on the web.
+I enjoy building complex projects like **web-based IDEs** and **AI chatbots**. Outside of code, I love **Linux**, **Neovim**, and writing technical blogs on **Hashnode**.
 
 ---
 
