@@ -32,7 +32,7 @@ I enjoy building complex projects like **web-based IDEs** and **AI chatbots**. O
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL" />
   <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="Redis" />
-  <img src="https://avatars.githubusercontent.com/u/83648056" height="40" alt="Qdrant" />
+  <img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo.svg" height="40" alt="Qdrant" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" />
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="Kubernetes" />
@@ -80,6 +80,8 @@ I enjoy building complex projects like **web-based IDEs** and **AI chatbots**. O
 
 ---
 
+## 💭 Quote that inspires me
+
 > “I don’t believe in taking right decisions. I take decisions and then make them right.” — *Ratan Tata*
 
 ---
@@ -100,5 +102,5 @@ If you'd like to support my work and keep me caffeinated:
 
 If you like what I do, **explore my repositories** and feel free to ⭐ any that you find helpful or inspiring!
 
-👉 [github.com/dipsubhro](https://github.com/dipsubhro)
+👉 [All Repositories](https://github.com/dipsubhro?tab=repositories)
 
