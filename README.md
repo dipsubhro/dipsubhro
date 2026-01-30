@@ -15,42 +15,40 @@ I enjoy building complex projects like **web-based IDEs** and **AI chatbots**. O
 ## 🛠 Tech Stack & Tools
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=black" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-<img src="https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=black" />
-<img src="https://img.shields.io/badge/Socket.IO-FFFFFF?style=for-the-badge&logo=socketdotio&logoColor=black" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Qdrant-D91656?style=for-the-badge&logo=qdrant&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" height="40" alt="Java" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="Go" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/white" height="40" alt="Next.js" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/reactquery/FF4154" height="40" alt="TanStack Query" />
+  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/bear.png" height="40" alt="Zustand" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js" />
+  <img src="https://cdn.simpleicons.org/express/white" height="40" alt="Express.js" />
+  <img src="https://cdn.simpleicons.org/socketdotio/white" height="40" alt="Socket.IO" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="Redis" />
+  <img src="https://avatars.githubusercontent.com/u/83648056" height="40" alt="Qdrant" />
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="40" alt="AWS" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="Kubernetes" />
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="Terraform" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="Nginx" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
+  <img src="https://cdn.simpleicons.org/github/white" height="40" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="GitHub Actions" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="Cloudflare" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="VS Code" />
+  <img src="https://cdn.simpleicons.org/neovim/57A143" height="40" alt="Neovim" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman" />
+  <img src="https://cdn.simpleicons.org/vercel/white" height="40" alt="Vercel" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" alt="Hugging Face" />
 </div>
 
 ---
@@ -73,12 +71,12 @@ I enjoy building complex projects like **web-based IDEs** and **AI chatbots**. O
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://subhro.tech"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://github.com/dipsubhro"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/subhradip-sinha-8a31b9277"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/Dipsubhro12"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X"></a>
-  <a href="mailto:sbhrdpsinha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://hashnode.com/@DipSubhro"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a>
+  <a href="https://subhro.tech"><img src="https://cdn.simpleicons.org/googlechrome/white" height="30" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/dipsubhro"><img src="https://cdn.simpleicons.org/github/white" height="30" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/subhradip-sinha-8a31b9277"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/Dipsubhro12"><img src="https://cdn.simpleicons.org/x/white" height="30" alt="Twitter/X" /></a>&nbsp;&nbsp;
+  <a href="mailto:sbhrdpsinha@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" height="30" alt="Gmail" /></a>&nbsp;&nbsp;
+  <a href="https://hashnode.com/@DipSubhro"><img src="https://cdn.simpleicons.org/hashnode/2962FF" height="30" alt="Hashnode" /></a>
 </p>
 
 ---
