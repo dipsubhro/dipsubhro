@@ -55,6 +55,21 @@ I enjoy building complex projects like **web-based IDEs** and **AI chatbots**. O
 
 ---
 
+## 📊 GitHub Stats & Contributions
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dipsubhro&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipsubhro&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipsubhro&theme=tokyonight" />
+</div>
+
+---
+
 ## 📫 Contact
 
 <p align="center">
